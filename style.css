@@ -1,0 +1,97 @@
+.name{
+    background-color: #CEDEBD;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.writing1{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.writing2{
+    display: block;
+    font-size: 2.0em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+.writing1{
+    font-size: 3.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+    color:darkolivegreen;
+}
+.writing2{
+    color:darkolivegreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.top-tree{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+    
+}
+.bottom-tree{
+    position: absolute;
+    right: 900px;
+    bottom:  40px;
+
+}
+.d-block{
+    border-radius: 50%;
+}
+.web{
+    list-style: none;
+            padding: 10px 50px;
+            background-image: url("./desktop_2933245.png ");
+            background-repeat: no-repeat;
+            background-position: left center;
+            background-size: 50px;
+            color:darkolivegreen;
+    
+}
+.media{
+    list-style: none;
+            padding: 10px 50px;
+            background-image: url("./social-media_1968666.png");
+            background-repeat: no-repeat;
+            background-position: left center;
+            background-size: 50px;
+            color:darkolivegreen;
+
+}
+.btn{
+    background-color: #9EB384;
+}
+.green{
+    color: darkolivegreen;
+}
+.foot{
+    background-color:#9EB384 ;
+    padding: 50px 0 ;
+}
+.footer-link{
+    color:darkolivegreen;
+    font-family:  "Montserrat", sans-serif;
+    margin: 10px 20px;
+    padding: 70px;
+    text-decoration:none;
+}
+.para{
+    color: black;
+}
+.skills{
+    color: #9EB384;
+}
+.hello{
+    color: #9EB384;
+}
